@@ -11,11 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Models\" />
-    <Folder Include="Interfaces\" />
-    <Folder Include="Dtos\" />
     <Folder Include="TicketPricingEngine\" />
-    <Folder Include="Services\EventsServices\" />
   </ItemGroup>
 
 </Project>
